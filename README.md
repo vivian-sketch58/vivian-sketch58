@@ -16,6 +16,6 @@
 
 ## 🛠️ Tech Stack
 - Languages: Python, SQL, JavaScript (basic)
-- Tools: Tableau, Power BI, SPSS, Excel, Unicom Inteligence
+- Tools: Tableau, Power BI, SPSS, Excel, Unicom Inteligence, Microsoft Azure ML
 - Data: Data Cleaning & Processing, EDA, Statistical Analysis, Survey Design
 - Engineering: Data Pipelines, ETL, Data Modeling (Lakehouse)
