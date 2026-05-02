@@ -21,3 +21,5 @@
 - **Data Engineering:** Data Pipelines, ETL, Orchestration, Dashboard 
 - **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn
 - **Web & Applications:** Unicom Intelligence (Advanced), Streamlit, HTML, CSS, JavaScript, Qualtrics (Basic), data collection systems, DBdiagram
+- **AI & Automation:** Designed and built multi-agent AI systems (RAG + DuckDuckGo) for real-time information retrieval, applied machine learning using Joblib and Hugging Face, and developed Telegram chatbots with n8n workflows to automate processes; built an OpenClaw-based AI chatbot system
+
